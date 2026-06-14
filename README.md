@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;power+bi+Developer" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 (https://dboywally.github.io/)-->
 <p align="center">
   <a href="https://https:// linkedin.com/in/walter-ikenna-agu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
